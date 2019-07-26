@@ -47,9 +47,50 @@ their stake.  Only those, who voted for will receive the additional
 commission.  When borrower returns the loan in full and on time, she
 earns a non-transferable reputation.
 
-### Insurance union
+### Insurance fund
 
-TBD
+Drivers want to unite agains patrol police tyrany and decide to create
+insurance fund.
+
+There are two main roles: insured drivers and investors.
+
+Drivers pay the cost of the insurance and may submit a claim.
+
+Investors pool the money to achieve necessary reserve on the insurances
+sold.  Investors also elect claim examiners, decide how to invest
+the collected funds, and govern the fund in other ways.
+
+Fund has an end of life moment, when it closes and distributes the
+insurance premiums to its investors.  Investor's share in the fund is
+a tradeable token.
+
+Insurance payments and investments are collected and paid out in DAI.
+
+Rational behaviour for investors would be to systematically reduce the
+insured risks.
+
+Parameters:
+
+ - Reserve amount
+ - Lifetime
+ - Can the claim be submitted for more than once
+
+Drivers can:
+
+ - create insurance
+ - view insurance
+ - pay insurance
+ - submit claim
+
+Investors can:
+
+ - invest into the insurance pool
+ - vote on claims
+
+Both drivers and investors can:
+
+ - discuss claims
+
 
 ### Kickstarter
 
